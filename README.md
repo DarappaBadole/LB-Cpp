@@ -1,2 +1,2 @@
-# LB-C-
+# LB-Cpp
 Logic Building Marvellous Infosystem C++ Programs 
